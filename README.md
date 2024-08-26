@@ -1,3 +1,5 @@
+![image-watcher-and-printer](https://github.com/user-attachments/assets/ab9a693c-d500-4199-b55c-9d7a40788d66)
+
 # Image Watcher and Printer
 
 This is a simple C# command-line application that watches a folder for newly added JPEG, BMP, or TIFF image files, prints them to a specified printer, and then moves the printed files to a "Finished" folder. All actions, including success and errors, are logged to a log file. The app uses a configuration file to set parameters such as input/output folders, printer name, and log file location. The idea behind this application is to watch for FTP event snapshot image uploads from an NVR/Surveillance System and to subsequently print the snapshot(s).
