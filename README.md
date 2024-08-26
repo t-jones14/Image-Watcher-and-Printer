@@ -18,7 +18,7 @@ This is a simple C# command-line application that watches a folder for newly add
 ## Installation
 
 1. Clone the repository to your local machine:
-   1. `git clone https://github.com/your-username/ImageWatcherPrinter.git `
+   1. `git clone https://github.com/t-jones14/Image-Watcher-and-Printer.git `
 2. Open the project in your preferred IDE (e.g., Visual Studio).
 3. Modify the `AppConfig.config` file to match your folder paths and printer settings.
 4. Build and run the project.

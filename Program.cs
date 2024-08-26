@@ -6,7 +6,7 @@
     are logged to a file, and a configuration file defines various parameters.
 
     Licensed under the GNU General Public License, version 3 (GPL-3.0).
-    For more information, visit the official repository: https://github.com/t-jones14/ImageWatcherPrinter
+    For more information, visit the official repository: https://github.com/t-jones14/Image-Watcher-and-Printer
 
     You should have received a copy of the GNU General Public License along with this program.
     If not, see: https://www.gnu.org/licenses/
