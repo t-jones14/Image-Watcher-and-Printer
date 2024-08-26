@@ -1,0 +1,2 @@
+# Image Watcher and Printer
+ This is a simple C# command-line application that watches a folder for newly added JPEG, BMP, or TIFF image files, prints them to a specified printer, and then moves the printed files to a "Finished" folder. All actions, including success and errors, are logged to a log file. The app uses a configuration file to set parameters such as input/output folders, printer name, and log file location.
